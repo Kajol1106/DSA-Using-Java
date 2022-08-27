@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class RunningSumOfAnArray {
     
     //input display method
     public static void displayData(int size, int[] arr) {

@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class Main {
+class RotateBy90AntiClockWise {
     
     // public static int[][] displayData(int n, int[][] mat) {
     //     for(int i=0; i<n; i++) {

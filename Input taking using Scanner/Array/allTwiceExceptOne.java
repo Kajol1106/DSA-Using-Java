@@ -1,6 +1,6 @@
 import java.util.*;
 
-class allTwiceExceptOne {
+class AllTwiceExceptOne {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
