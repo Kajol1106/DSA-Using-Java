@@ -16,6 +16,7 @@ public class NextGreaterOdd {
         }
     }
     
+    //Brute Force Approach
     public static void nextGreaterOdd(int size, int[] arr) {
         //List l1 = new ArrayList<>();
         int[] res = new int[size];
