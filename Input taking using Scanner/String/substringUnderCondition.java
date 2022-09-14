@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.String;
 
-class Main {
+class SubstringUnderCondition {
     
     public static int countSubstringUnderCondition(String str) {
         int count = 0;
