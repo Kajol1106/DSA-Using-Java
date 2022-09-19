@@ -44,4 +44,23 @@ public class ReverseTheLinkedList {
         a = prev;
         return a;
       }
+
+      //Iterative approach
+      // public static Node reverseLinkedList(Node a){
+      //   //curr ko head decalre karo
+      //   Node curr = a;
+      //   //null for reverse element
+      //   Node prev = null;
+      //   while(curr != null) {
+      //       //curr ki link curr.next element ke sath todane se pahale curr.next ko temp variable store kar lo
+      //       Node temp = curr.next;
+      //       //curr.next ko prev means null denote kar do
+      //       curr.next = prev;
+      //       //prev pointer aage lane ke liye prev ko curr denote kar do
+      //       prev = curr;
+      //       //curr pointer aage lane ke liye curr ko temp denote kar do
+      //       curr = temp;
+      //   }
+      //   return prev;
+      // }
 }
